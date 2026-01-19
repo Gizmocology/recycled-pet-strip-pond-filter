@@ -1,0 +1,25 @@
+# Analisis Konsep: Filtrasi Berbasis Circular Economy
+
+## 1. Latar Belakang & Masalah
+Filtrasi kolam ikan konvensional seringkali bergantung pada media plastik pabrikan (Bio-ball) atau media keramik yang mahal. Masalahnya:
+- **Limbah:** Media plastik baru menambah jejak karbon.
+- **Biaya:** Media berkualitas tinggi dengan Surface Area besar sangat mahal bagi penghobi.
+- **Efisiensi:** Banyak media filter tidak memiliki variasi densitas yang bisa diatur sendiri oleh pengguna.
+
+## 2. Inovasi Media Strip PET (Precision Shredding)
+Konsep utama proyek ini adalah **Kustomisasi Luas Permukaan (SSA - Specific Surface Area)**. Dengan memotong botol PET menjadi strip presisi:
+- **Strip 1mm:** Memberikan luas permukaan yang masif untuk koloni bakteri nitrifikasi (Biological Filtration). Secara teori, semakin tipis strip, semakin tinggi densitas luas permukaan per liter volume filter.
+- **Inertia Material:** PET adalah salah satu plastik paling stabil. Ia tidak melepaskan zat kimia berbahaya (leaching) ke air dan tidak akan hancur dalam jangka waktu puluhan tahun.
+
+## 3. Perbandingan Teknis: PET Strip vs Media Konvensional
+
+| Parameter | Media Strip PET | Bio-Ball Pabrikan | Batu Gombong/Keramik |
+| :--- | :--- | :--- | :--- |
+| **Biaya** | Rp 0 (Daur Ulang) | Cukup Mahal | Murah - Sedang |
+| **Kustomisasi** | Sangat Tinggi (1mm - 5mm) | Tetap (Fix) | Tidak Ada |
+| **Luas Permukaan** | Sangat Tinggi (pada 1mm) | Rendah - Sedang | Tinggi (tapi mudah buntu) |
+| **Perawatan** | Sangat Mudah (Backwash) | Mudah | Sulit (Beresiko hancur) |
+| **Dampak Lingkungan** | Positif (Waste Reduction) | Negatif (New Plastic) | Netral |
+
+## 4. Keunggulan Mekanika Fluida: Up-Flow Vortex
+Dengan menggabungkan media ini ke dalam sistem Vortex, kita menciptakan sistem self-cleaning. Pusaran air di dasar tabung memastikan kotoran padat tidak pernah mencapai lapisan halus (1mm) di bagian atas, sehingga durasi *clogging* (penyumbatan) jauh lebih lama dibandingkan filter kotak biasa.
