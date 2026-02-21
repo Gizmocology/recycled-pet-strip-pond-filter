@@ -2,6 +2,8 @@
 
 Sistem filtrasi kolam ikan berbasis keberlanjutan (sustainability) dengan Up-Flow Vortex memanfaatkan 100% strip botol plastik (PET) daur ulang sebagai media filter mekanis dan biologis, dan sistem backwash terintegrasi.
 
+https://github.com/Gizmocology/recycled-pet-strip-pond-filter/blob/main/PetStripConcept.jpg
+
 ## 🚀 Fitur Utama
 - **Eco-Friendly:** Menggunakan 100% material daur ulang dari botol air mineral.
 - **Up-Flow Vortex System:** Memaksimalkan pengendapan kotoran berat di dasar tabung.
